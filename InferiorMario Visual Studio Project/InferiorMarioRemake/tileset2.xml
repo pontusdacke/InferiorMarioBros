@@ -1,0 +1,41 @@
+<tileset>
+  <imagefile path="spritesheet.png">
+    <tile x="0"  y="2" frames ="1" id="A" />
+    <tile x="1"  y="2" frames ="1" id="B" />
+    <tile x="2"  y="2" frames ="1" id="C" />
+    <tile x="3"  y="2" frames ="1" id="D" />
+    <tile x="0"  y="3" frames ="1" id="_" />
+    <tile x="1"  y="3" frames ="1" id="F" />
+    <tile x="2"  y="3" frames ="1" id="G" />
+    <tile x="3"  y="3" frames ="1" id="H" />
+    <tile x="0"  y="4" frames ="1" id="I" />
+    <tile x="1"  y="4" frames ="1" id="J" />
+    <tile x="2"  y="4" frames ="1" id="K" />
+    <tile x="3"  y="4" frames ="1" id="L" />
+    <tile x="0"  y="5" frames ="1" id="M" />
+    <tile x="1"  y="5" frames ="1" id="N" />
+    <tile x="2"  y="5" frames ="1" id="O" />
+    <tile x="3"  y="5" frames ="1" id="P" />
+    <tile x="0"  y="6" frames ="1" id="Q" />
+    <tile x="1"  y="6" frames ="1" id="R" />
+    <tile x="2"  y="6" frames ="1" id="S" />
+    <tile x="3"  y="6" frames ="1" id="T" />
+    <tile x="0"  y="7" frames ="1" id="U" />
+    <tile x="1"  y="7" frames ="1" id="V" />
+    <tile x="2"  y="7" frames ="1" id="W" />
+    <tile x="3"  y="7" frames ="1" id="X" />
+    <tile x="0"  y="8" frames ="1" id="Y" />
+    <tile x="1"  y="8" frames ="1" id="Z" />
+    <tile x="2"  y="8" frames ="1" id="0" />
+    <tile x="3"  y="8" frames ="1" id="1" />
+    <tile x="0"  y="9" frames ="1" id="2" />
+    <tile x="1"  y="9" frames ="1" id="3" />
+    <tile x="2"  y="9" frames ="1" id="4" />
+    <tile x="3"  y="9" frames ="1" id="5" />
+    <tile x="0"  y="10" frames ="1" id="6" />
+    <tile x="1"  y="10" frames ="1" id="7" />
+    <tile x="2"  y="10" frames ="1" id="8" />
+    <tile x="3"  y="10" frames ="1" id="9" />
+    <tile x="0"  y="11" frames ="4" id="*" />
+  </imagefile>
+</tileset>

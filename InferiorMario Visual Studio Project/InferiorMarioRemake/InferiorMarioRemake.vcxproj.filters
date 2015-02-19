@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Components">
+      <UniqueIdentifier>{34e23532-fa66-4ea6-bf66-9ac123d82294}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sound">
+      <UniqueIdentifier>{79b0a444-b48f-40f6-85c9-22b416fed70d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Data">
+      <UniqueIdentifier>{02b1e7fd-a2d3-4eb5-9d3a-2c1e0e3ba815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Graphics">
+      <UniqueIdentifier>{c0443da4-e6fe-4a0a-8321-073d28dc89fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Components">
+      <UniqueIdentifier>{5778c9cf-f8f5-4e89-9980-4419b5d5c91b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyAnimationComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyInputComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyPhysicsComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="InputComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAnimationComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerInputComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerPhysicsComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerGoalInputComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rapidxml.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyAnimationComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyPhysicsComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyInputComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAnimationComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerPhysicsComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerInputComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="InputComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerGoalInputComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="spritesheet.png">
+      <Filter>Resource Files\Graphics</Filter>
+    </Image>
+    <Image Include="marker.png">
+      <Filter>Resource Files\Graphics</Filter>
+    </Image>
+    <Image Include="menu.png">
+      <Filter>Resource Files\Graphics</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="tileset2.xml">
+      <Filter>Resource Files\Data</Filter>
+    </Xml>
+    <Xml Include="tileset.xml">
+      <Filter>Resource Files\Data</Filter>
+    </Xml>
+    <Xml Include="Level1-1.xml">
+      <Filter>Resource Files\Data</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="smb1-1.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_coin.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_flagpole.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_jump-small.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_jump-super.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_mariodie.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_pause.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_powerup.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_powerup_appears.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_stage_clear.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_bump.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+    <Media Include="smb_kick.wav">
+      <Filter>Resource Files\Sound</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="SuperMarioBros.ttf">
+      <Filter>Resource Files\Graphics</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
