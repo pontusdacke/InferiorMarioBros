@@ -13,8 +13,8 @@
 
 #include "Enemy.h"
 #include "EnemyAnimationComponent.h"
-#include "EnemyInputComponent.h";
-#include "EnemyPhysicsComponent.h";
+#include "EnemyInputComponent.h"
+#include "EnemyPhysicsComponent.h"
 
 /* Game process:
  * 1. Initialize window and other components
